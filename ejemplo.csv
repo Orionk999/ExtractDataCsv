@@ -1,0 +1,5 @@
+user_id,timestamp,page_visited,duration
+1,2023-01-01 08:00:00,homepage,10
+2,2023-01-01 08:15:00,product_page,5
+3,,checkout,8
+4,2023-01-01 08:30:00,homepage,12
