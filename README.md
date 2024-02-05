@@ -46,3 +46,7 @@ Additionally, the "userProfile_Id" relationship is assigned to the user table, w
 connection with the profiles table.
 
 Product manages a one-to-many connection for the characteristics of each product.
+
+**Each table has its respective primary key; therefore, when performing procedures and conducting searches, it is 
+recommended to use the indices associated with each key. This way, the engine will quickly locate the required 
+information.**
